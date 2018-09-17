@@ -580,7 +580,6 @@
                 <Package>libXvMC</Package>
                 <Package>libXxf86dga</Package>
                 <Package>libXxf86misc</Package>
-                <Package>libXxf86miscproto</Package>
                 <Package>libXxf86vm</Package>
                 <Package>libaccounts-glib</Package>
                 <Package>libaccounts-qt5</Package>
@@ -1318,7 +1317,6 @@
         <Package>libXvMC</Package>
         <Package>libXxf86dga</Package>
         <Package>libXxf86misc</Package>
-        <Package>libXxf86miscproto</Package>
         <Package>libXxf86vm</Package>
         <Package>libass</Package>
         <Package>libasyncns</Package>
