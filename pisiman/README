@@ -5,6 +5,8 @@ Requirements
 ------------
  - cdrkit
  - syslinux
+ - libisoburn
+ - python-sip
  - squashfs-tools
  - pyqtermwidget5 (Required for GUI)
  - python-requests
