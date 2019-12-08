@@ -7,10 +7,13 @@ iso work yalı ile çalışan pisi iso oluşturma aracıdır. çalıştırmadan 
 
 Kurulması gereken paketler:
 ===========================
--cdrkit
+- cdrkit
 - syslinux
 - libisoburn
 - python-sip
 - squashfs-tools
 - pyqtermwidget5 (Required for GUI)
 - python-requests
+- python-chardet
+- python-urllib3
+- python-idna
